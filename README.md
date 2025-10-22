@@ -26,7 +26,7 @@ Each folder contains a small `index.html` and `styles.css` file to demonstrate t
 ### 🚀 How to Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/<your-username>/css-learning-lab.git
+   git clone https://github.com/yogesh-d98/css-learning-lab.git
    
 2.Open any folder in your browser to see the example in action.
 
