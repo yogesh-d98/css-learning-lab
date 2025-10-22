@@ -1,0 +1,23 @@
+#heading{
+    color:#B0630C /*hexadecimal colors*/ ; 
+    
+}
+#text1{
+color:rgba(238, 122, 33, 0.432); /*rgb colors a for alpha ->opacity*/
+}
+
+
+/*HSL - hue saturation lightness*/
+#text2{
+    color: hsla(31, 94%, 25%, 0.7);
+}
+
+
+/*
+  frequently used hsl and rgb
+*/
+
+#text3{
+    color:red;
+    opacity: 50%;  /*instead of adding a we can use opacity property*/
+}

@@ -1,0 +1,7 @@
+.disp{
+    width: 70px;
+    height: 40px;
+    background-color: aqua;
+    color: red;
+    display: inline;
+}

@@ -1,0 +1,10 @@
+.para{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    border: 2px red solid;
+    /* overflow: auto; */
+    overflow: scroll;
+    overflow-x: hidden;
+    overflow-y: auto;
+}

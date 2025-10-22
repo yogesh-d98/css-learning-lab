@@ -1,0 +1,13 @@
+#heading {
+    
+    background-image: url(pexels-souvenirpixels-417074.jpg);
+    background-repeat: no-repeat; /* we can use repeat x or repeat y*/
+}
+
+body {
+    /* background-image: url(windows_xp_original-wallpaper-1366x768.jpg);
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-attachment: fixed; */
+    background: url(windows_xp_original-wallpaper-1366x768.jpg) no-repeat left top fixed;
+}

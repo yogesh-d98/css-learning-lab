@@ -1,0 +1,11 @@
+/* .para{
+    position: absolute;
+    left: 40px;
+    top:200px
+} */
+
+#paragraph {
+    position:fixed;
+    top:0px;
+    background-color: aqua;
+}

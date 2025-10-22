@@ -1,0 +1,8 @@
+h1{
+    /* border-style:solid;
+    border-style:dashed double dotted solid;   setting borders clockwise top -> right -> bottom -> left
+    border-width: 5px 10px 2px 4px; other than px we can set thin thick medium
+    border-color: blue  rgb(224, 42, 42);*/
+    border-radius: 5px 0px 15px 2px; 
+    border  : solid medium red ;
+}

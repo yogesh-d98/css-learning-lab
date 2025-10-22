@@ -1,0 +1,14 @@
+.content{
+    border: 2px red solid;
+    opacity: 1;
+    border-radius: 5px;
+}
+
+.content .para{
+    background-color: aquamarine;
+}
+
+#paragraph{
+    color: rgb(255, 153, 0);
+    background-color:brown !important;
+}
